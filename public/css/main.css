@@ -58,3 +58,13 @@ body {
   margin: 0;
   padding: 0;
 }
+
+#controls {
+  text-align: center;
+  margin-top: 450px;
+}
+
+#roomId {
+  margin: 0 auto;
+  background-color: cream;
+}
